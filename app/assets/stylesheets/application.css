@@ -13,3 +13,29 @@
  *= require_tree .
  *= require_self
  */
+
+
+
+.container{
+  padding-top: 30px;
+  padding-bottom: 20px;
+
+
+}
+
+.stupid{
+  text-size-adjust: 25px;
+}
+
+
+.answer{
+  background-color: azure;
+  padding-bottom: 15px;
+
+}
+
+
+.coach {
+  padding-bottom: 20px;
+  background-color: rgba(246, 214, 33, 0.468);
+}
